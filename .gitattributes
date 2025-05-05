@@ -1,0 +1,4 @@
+ios/* linguist-vendored
+macos/* linguist-vendored
+android/* linguist-vendored
+.dart_tool/* linguist-generated
